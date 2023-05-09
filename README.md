@@ -1,6 +1,6 @@
 # 8085-Emulator
 
-#author : Bhavya Aggarwal (CST SPL : GEU - 2025)
+#author : Anubhav Bhatnagar (CST SPL : GEU - 2025)
 
 This is the readme file of 8085 Emulator.
 
